@@ -13,9 +13,9 @@
                 <div class="pub__box--title">
                   {{ .Title }}
                 </div>
-                <div class="pub__box--desc">
+                <!-- <div class="pub__box--desc">
                   {{ .Params.abstract }}
-                </div>
+                </div> -->
                 <div class="pub__box--links" data-dir="{{ if ne ($.Param "languagedir") "rtl" }}ltr{{ else }}rtl{{ end }}">
                   <a href="{{ .FirstSection.Permalink }}/{{ .Params.ENTRYTYPE }}">
                     🎯 {{ .Params.ENTRYTYPE }}
