@@ -1,6 +1,6 @@
-logoText = "LogoText"
+logoText = "早稲田の本棚"
 logoType = "short" # long, short
-description = "Zzoのブログスターター"
+description = "早大生や早稲田志望の方のための本の総合サイトです。"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/

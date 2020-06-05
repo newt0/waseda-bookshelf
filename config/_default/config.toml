@@ -1,5 +1,5 @@
 baseURL = "https://waseda-bookshelf.netlify.app/"
-title = "Hugo Zzo Theme"
+title = "早稲田の本棚"
 theme = "zzo"
 
 defaultContentLanguage = "ja"
