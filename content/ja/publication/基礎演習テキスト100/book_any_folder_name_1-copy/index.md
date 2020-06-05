@@ -5,8 +5,8 @@ abstract: "abstractabstractabstractabstract"
 shorttitle: "shorttitle"
 isbn: "978-1-311-04245-3"
 copyright: "copyrights"
-title: "book-copy2"
-ENTRYTYPE: "book-copy"
+title: "基礎演習テキスト1002"
+ENTRYTYPE: "基礎演習テキスト100"
 enableToc: false
 enableWhoami: false
 pinned: true

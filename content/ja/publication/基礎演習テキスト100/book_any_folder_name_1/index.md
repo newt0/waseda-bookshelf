@@ -5,8 +5,8 @@ abstract: "Donec vel ipsum vulputate, dapibus magna quis, auctor mauris. Aliquam
 shorttitle: "Donec vel ipsum vulputate"
 isbn: "978-1-311-04245-3"
 copyright: "All rights reserved"
-title: "book-copy"
-ENTRYTYPE: "book-copy"
+title: "基礎演習テキスト100"
+ENTRYTYPE: "基礎演習テキスト100"
 enableToc: False
 enableWhoami: True
 pinned: true
