@@ -1,11 +1,11 @@
 ---
 authors: ['author']
 publisher: "Publisher"
-abstract: "abstractabstractabstractabstract"
-shorttitle: "shorttitle"
+abstract: "『中国化する日本』の著者・與那覇潤さん推薦！「儒教侮るべからず。独自の近代化のエンジンを探った泰斗の遺言」"
+shorttitle: "分かりやすい本"
 isbn: "978-1-311-04245-3"
 copyright: "copyrights"
-title: "基礎演習テキスト1002"
+title: "〈中国思想〉再発見"
 ENTRYTYPE: "基礎演習テキスト100"
 enableToc: false
 enableWhoami: false
