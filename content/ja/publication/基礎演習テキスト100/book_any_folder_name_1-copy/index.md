@@ -1,19 +1,63 @@
 ---
-authors: ['author']
-publisher: "Publisher"
-abstract: "『中国化する日本』の著者・與那覇潤さん推薦！「儒教侮るべからず。独自の近代化のエンジンを探った泰斗の遺言」"
-shorttitle: "分かりやすい本"
-isbn: "978-1-311-04245-3"
-copyright: "copyrights"
 title: "〈中国思想〉再発見"
+shorttitle: "中国思想完全に理解した"
+abstract: "『中国化する日本』の著者・與那覇潤さん推薦！「儒教侮るべからず。独自の近代化のエンジンを探った泰斗の遺言」"
 ENTRYTYPE: "基礎演習テキスト100"
+copyright: "All rights reserved"
 enableToc: false
 enableWhoami: false
 pinned: true
-publishDate: "2017-06-01"
+# isbn: "978-1-311-04245-3"
+# authors: ['Newt0']
+# publisher: "Self-Published"
+# publishDate: ""
 ---
 
-著者: 太宰治
+```
+太宰(著), 田中(訳) 
+岩波文庫
+```
+{{< color "#0000ff" >}}*太宰(著), 田中(訳) 
+岩波文庫*{{< /color >}}
+{{< boxmd >}}
+太宰(著), 田中(訳) 
+岩波文庫
+{{< /boxmd >}}
+{{< box >}}
+太宰(著), 田中(訳) 
+岩波文庫
+{{< /box >}}
+{{< notice success >}} # success, info, warning, error
+太宰(著), 田中(訳) 
+岩波文庫
+{{< /notice >}}
+
+{{< tabs Windows MacOS Ubuntu >}}
+  {{< tab >}}
+
+  ### Windows section
+
+  ```javascript
+  console.log('Hello World!');
+  ```
+
+  {{< /tab >}}
+  {{< tab >}}
+
+  ### MacOS section
+
+  Hello world!
+  {{< /tab >}}
+  {{< tab >}}
+
+  ### Ubuntu section
+
+  Great!
+  {{< /tab >}}
+{{< /tabs >}}
+
+>『中国化する日本』の著者・與那覇潤さん推薦！「儒教侮るべからず。独自の近代化のエンジンを探った泰斗の遺言」
+
 
 publisher, isbn, copyrightはどこに表示されている？
 
