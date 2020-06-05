@@ -21,9 +21,9 @@
           {{ partial "publication/pub-meta" . }}
           {{ partial "publication/pub-tags" . }}
         </div>
-        <div class="pub__summary">
+        <!-- <div class="pub__summary">
           {{ .Params.abstract }}
-        </div>
+        </div> -->
       {{ else }}
         <div class="pub__summary">
           {{ .Params.description | markdownify }}
