@@ -1,4 +1,4 @@
-baseURL = "https://zzo-starter.netlify.app/"
+baseURL = "https://waseda-bookshelf.netlify.app/"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
