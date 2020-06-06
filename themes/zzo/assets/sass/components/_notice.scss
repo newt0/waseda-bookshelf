@@ -200,4 +200,50 @@
             background-color: darken(#e8f7e6, 6%) !important;
         }
     }
+
+    &.checkpoint {
+        border-top: 30px solid #6bb1e0;
+        background: #e6f3fb;
+        color: rgba(47, 103, 141, 0.995) !important;
+
+        &::before {
+            position: absolute;
+            content: '✔️   Check Point';
+            font-family: $title-font;
+            top: -26.5px;
+            left: 0.4rem;
+            height: 100%;
+        }
+
+        a {
+            font-weight: bold;
+            color: rgba(31, 87, 125, 0.995);
+            @include themify($themes) {
+                @include on-event {
+                    color: themed('link-hover');
+                }
+            }
+        }
+
+        > table {
+            thead {
+                background: #6bb1e0;
+            }
+
+            th {
+                color: rgba(31, 87, 125, 0.995);
+            }
+
+            th, td {
+                padding: 5px 15px;
+                border: 1px double rgba(63, 119, 157, 0.45);
+            }
+        }
+
+        p > code, li > code, td > code, code {
+            padding: 3px 7px;
+            color: rgba(47, 103, 141, 0.995) !important;
+            background-color: darken(#e6f3fb, 6%) !important;
+        }
+    }
 }
