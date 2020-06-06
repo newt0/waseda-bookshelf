@@ -8,7 +8,7 @@ meta_image = ""
 themecolor = ""
 
 themeOptions = ["dark", "light", "solarized"] #  ,"hacker", "kimbie"
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "presentation", "resume"]
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "gallery", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "presentation", "resume", "gallery"]
