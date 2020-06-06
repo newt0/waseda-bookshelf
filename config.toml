@@ -1,4 +1,4 @@
-baseURL = "https://waseda-bookshelf.netlify.app/"
+baseURL = "http://wasedabookshelf.com/"
 languageCode = "ja-jp"
 title = "早稲田の本棚"
 theme = "zzo"
