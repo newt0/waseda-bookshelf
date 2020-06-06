@@ -34,7 +34,7 @@
 
 [[main]]
   identifier = "posts"
-  name = "Posts"
+  name = "記事"
   url = "posts"
   weight = 5
 
@@ -46,6 +46,6 @@
 
 [[main]]
   identifier = "publication"
-  name = "書評"
+  name = "本の掲示板"
   url = "publication"
   weight = 7
