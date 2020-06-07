@@ -46,6 +46,6 @@
 
 [[main]]
   identifier = "publication"
-  name = "本の掲示板"
+  name = "ブックリスト"
   url = "publication"
   weight = 7
