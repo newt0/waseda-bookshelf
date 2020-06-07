@@ -90,7 +90,7 @@ fullContents = false
 
 # comment
 enableComment = true
-disqus_shortname = ""
+disqus_shortname = "wasedabookshelf"
 commento = false
 
 [telegram]
